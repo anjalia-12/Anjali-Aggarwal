@@ -1,2 +1,2 @@
 # Hello
-Hi I am a computer science student at Texas Tech Univeristy interested in software engineering.
+I am a computer science student at Texas Tech Univeristy interested in software engineering.
